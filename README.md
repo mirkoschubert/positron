@@ -2,8 +2,8 @@
 
 <p align="center">
   <img src="https://assets-cdn.github.com/favicon.ico" width=24 height=24/>
-  <a href="https://github.com/mirkoschubert/positron-terminal-app/blob/master/LICENSE.md">
-    <img src="https://img.shields.io/github/license/mirkoschubert/positron-terminal-app.svg" />
+  <a href="https://github.com/mirkoschubert/positron/blob/master/LICENSE.md">
+    <img src="https://img.shields.io/github/license/mirkoschubert/positron.svg" />
   </a>
 </p>
 
@@ -21,7 +21,7 @@
 
 Since I'm restricted to macOS, feel free to contribute by forking and/ or sending pull requests with ports for other applications.
 
-The color scheme is based on the [IBM Design Language Color Library](https://github.com/IBM-Design/colors) and correspond to their [Color Guidelines](https://www.ibm.com/design/language/experience/visual/color/). Please have a look at the color scheme below, if you want use it for your own port.
+The color scheme is based on the [IBM Design Language Color Library](https://github.com/IBM-Design/colors) and corresponds to their [Color Guidelines](https://www.ibm.com/design/language/experience/visual/color/). Please have a look at the color scheme below, if you want use it for your own port.
 
 Have fun with a (hopefully) unified experience in your favorite applications!
 
@@ -40,7 +40,7 @@ Have fun with a (hopefully) unified experience in your favorite applications!
 
 #### Additional Colors
 
-| Backgrou       | Foreground | Selection  | Sel. Text  | Bold Text  | Link | Cursor  |
+| Background     | Foreground | Selection  | Sel. Text  | Bold Text  | Link | Cursor  |
 |:--------------:|:----------:|:----------:|:----------:|:----------:|:----:|:-------:|
 | `#1b2834` [90] | White      | BlackLight | WhiteLight | WhiteLight | Blue | Magenta |
 
@@ -60,4 +60,4 @@ Have fun with a (hopefully) unified experience in your favorite applications!
 
 ### Contribution
 
-Please report issues/bugs, feature requests and suggestions for improvements to the [issue tracker](https://github.com/mirkoschubert/positron-terminal-app/issues). 
+Please report issues/bugs, feature requests and suggestions for improvements to the [issue tracker](https://github.com/mirkoschubert/positron/issues). 
