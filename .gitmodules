@@ -1,0 +1,6 @@
+[submodule "terminal-app"]
+	path = terminal-app
+	url = https://github.com/mirkoschubert/positron-terminal-app.git
+[submodule "iterm2"]
+	path = iterm2
+	url = https://github.com/mirkoschubert/positron-iterm2.git
